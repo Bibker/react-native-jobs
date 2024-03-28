@@ -14,9 +14,6 @@
 - 🔄 Real-time job updates using the JSearch API from Rapid API
 
 ## Screenshots
-
-<details>
-  <summary>Click to expand</summary>
   <p align="center">
     <img src="screenshots/1.jpg" alt="Screenshot " width="200"/>
     <img src="screenshots/2.jpg" alt="Screenshot " width="200"/>
@@ -24,7 +21,7 @@
     <img src="screenshots/4.jpg" alt="Screenshot " width="200"/>
     <img src="screenshots/5.jpg" alt="Screenshot " width="200"/>
   </p>
-</details>
+
 
 ## How to Install
 
